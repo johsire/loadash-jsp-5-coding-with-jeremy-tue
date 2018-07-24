@@ -20,6 +20,7 @@ Array.prototype.filter = function(callbackFn) {
 };
 return newArray
 };
+
 // higher-order function only knows how to do part of the function; so we have to pass a callback function/ another function that does the rest of the job;
 
 // map / filter and reduce will solve most of my higher-order-functions problems;
@@ -32,6 +33,7 @@ return newArray
 
 
 let evens = numbers.filter(x => x % 2 === 0)
+console.log(evens);
 // evens; [2, 4, 4]
 
 // filter /map / reduce/ sort / is a higher order function;

@@ -35,4 +35,14 @@ sum; 15
 <!-- It's indentified by underscore dash _ -->
 <!-- lodash is not a prototype, so we cant use chaining; so we still pass our info to filter then our callback function;
 
+- You add dots at your break-points to debug the line of code;
+
+USING THE DEBUGGER: - its a visual that makes more sense & helps you understand how the computer works better;
+
+Blue-arrow: says go to the next line/ keep going/ resume;
+Hot-Skippy: step over/ run the function and go to the next one without going into the function
+Green-arrow- Refresh
+Step-into- runs the function and gets into/ steps into the function so you can read the code/ function.
+Step over- the code;
+
  -->
