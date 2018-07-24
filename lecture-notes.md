@@ -1,4 +1,3 @@
-
 <!-- #PROCEDURAL
 //js is procedural, starts from the top to the bottom;
 
@@ -80,3 +79,6 @@ Security: is it safe to put in the credit card info or not
 
 Audits: checks all sorts of performance related stuff - memory stuff, disabilities(color-blindness), etc.
  -->
+
+ <!-- authentication - email and password;
+ authorization - only view the info you are supposed to see/ authorized to see; -->
