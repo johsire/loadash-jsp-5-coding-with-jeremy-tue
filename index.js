@@ -22,6 +22,7 @@ return newArray
 };
 // higher-order function only knows how to do part of the function; so we have to pass a callback function/ another function that does the rest of the job;
 
+// map / filter and reduce will solve most of my higher-order-functions problems;
 
 // types/ class/ classification;
 // Number 
